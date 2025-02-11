@@ -27,6 +27,6 @@
 echo "<br>";
 echo "Autor: zhli"."<br>";
  ?>
-<a href="pizza.html">Retorna al formulari de selecció d’ingredients.</a>
+<a href="pizza.html">Retorna al formulari de selecció d’ingredients</a>
  </body>
 </html>
