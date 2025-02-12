@@ -26,6 +26,7 @@
 }
 echo "<br>";
 echo "Autor: zhijie15<"<br>";
+echo date("l jS \of F Y h:i:s A") . "<br>";
  ?>
 <a href="pizza.html">Retorna al formulari de selecció d’ingredients</a>
  </body>
